@@ -8,6 +8,7 @@ Responsável: Alberto F. O. Freire
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Alberto F. O. Freire. 
+
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar a diminuição de custos imediatos.
 
 ## Descrição do Projeto
